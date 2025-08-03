@@ -2,29 +2,29 @@ body {
   font-family:'Times New Roman', Times, serif;
   background: white;
   margin: 0;
-  padding: 20px;
+  padding: 1.25rem;
   color: #333;
 }
 
 .container {
-  max-width: 900px;
+  max-width: 56.25rem;
   margin: auto;
   background: #fff;
-  padding: 20px 30px;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 1.25rem 1.875rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 0.625rem rgba(0,0,0,0.1);
   font-weight: bold;
 }
 
 header {
   text-align: center;
-  margin-bottom: 25px;
+  margin-bottom: 1.56rem;
   
 }
 
 header h1 {
   margin: 0;
-  font-size: 2em;
+  font-size: 2rem;
   font-weight: bold;
   color: black;
   
@@ -38,34 +38,34 @@ header h1 {
 }
 
 .contact p {
-  margin: 5px 0;
+  margin: 0.3125rem 0;
   font-weight: bold;
   color: black;
 }
 
 h2 {
   color: darkblue;
-  border-bottom: 2px solid #2c3e50;
-  padding-bottom: 10px;
-  margin-top: 30px;
+  border-bottom: 0.125rem solid #2c3e50;
+  padding-bottom: 0.625rem;
+  margin-top: 1.875rem;
   font-weight: bold;
   text-decoration: underline;
 }
 
 h3{
-    margin-bottom: 5px;
+    margin-bottom: 0.3125rem;
     color: black;
-    margin-top: 30px;
+    margin-top: 1.875rem;
     font-weight: bold;
     text-decoration: underline;
   
 }
 
 ul {
-  padding-left: 25px;
+  padding-left: 1.56rem;
   font-weight: bold;
   color: black;
-  margin-top: 25px;
+  margin-top: 1.56rem;
 }
 
 a {
